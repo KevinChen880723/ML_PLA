@@ -1,6 +1,6 @@
 # ML_PLA
 
-Scale the training data by using this line:
+Scale the training data here:
 
 ![](https://i.imgur.com/DVjR0TS.png)
 
